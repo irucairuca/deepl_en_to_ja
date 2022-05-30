@@ -1,5 +1,5 @@
 # 英文画像を日本語に変換
-英文の画像データから翻訳された日本語のテキストファイルを作成します
+traej.py:英文の画像データから翻訳された日本語のテキストファイルを作成します(python3 file)
 This code can translate English of the picture to Japanese
 
 
